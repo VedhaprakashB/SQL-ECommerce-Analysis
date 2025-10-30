@@ -20,7 +20,7 @@ The database consists of 6 tables designed to model a simple e-commerce business
 ## 🚀 How to Run This Project
 
 1.  **Create the Database:** Run the entire `1_schema_and_data.sql` file in your MySQL environment (like MySQL Workbench). This single file will:
-    * Create the `jagadeesh` database.
+    * Create the `prakash` database.
     * Create all 6 tables with their keys and constraints.
     * Insert all 400 orders, 50 products, 30 customers, and associated sample data.
 
@@ -37,4 +37,5 @@ The database consists of 6 tables designed to model a simple e-commerce business
     * **Level 5**: Advanced queries using Subqueries (scalar, column, and correlated).
     * **Level 6**: Set operations using `UNION` and `EXISTS`.
 * **`er_diagram.png`**: The entity-relationship diagram for the database.
+
 * **`workbench_model.mwb`**: The MySQL Workbench model file used to create the ER diagram.

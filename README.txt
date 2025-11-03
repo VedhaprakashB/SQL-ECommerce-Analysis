@@ -117,3 +117,4 @@ It’s ideal for showcasing SQL proficiency in **data analytics**, **business in
 **📍 Author:** B. Vedhaprakash  
 **🔗 Tools Used:** MySQL Workbench, SQL Scripts, ER Modeling  
 **📅 Year:** 2025
+
